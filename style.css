@@ -1,0 +1,257 @@
+@media only screen and (min-width: 720px) {
+
+    .main {
+        background-color: black;
+        /* margin: 20px; */
+        color: white;
+        margin: 0px;
+        width: 100%;
+
+    }
+
+    .body {
+        background-color: black;
+        color: white;
+        font-family: 'Inter', sans-serif;
+        border: 5px solid white;
+        border-radius: 5px;
+        margin: 30px;
+
+
+
+    }
+
+    .links {
+        border: 5px solid white;
+        border-radius: 20px;
+        margin: 30px;
+        width: 297px;
+        padding: 20px;
+
+    }
+
+    .details {
+        border: 5px solid white;
+        border-radius: 20px;
+        margin: 30px;
+        width: 300px;
+        padding: 20px;
+        text-align: start;
+        padding-left: 0px;
+    }
+
+    .profile img {
+        width: 200px;
+        height: 200px;
+        border-radius: 20px;
+
+
+
+    }
+
+    .profile {
+        border: 5px solid white;
+        border-radius: 20px;
+        text-align: center;
+        margin: 30px;
+        width: 300px;
+        padding: 20px;
+    }
+
+    .table {
+
+        border: 5px solid white;
+        border-radius: 20px;
+        /* margin: 30px; */
+        padding: 30px;
+        position: absolute;
+        left: 520px;
+        top: 225px;
+        width: 657px;
+        height: 725px;
+        margin-bottom: 41px;
+        margin-left: 10px;
+
+
+    }
+
+    .data {
+        color: white;
+        border: 1px solid white;
+        border-radius: 10px;
+        padding: 0px 0px 90px 0px;
+        margin: 4px;
+        height: 215px;
+        width: 667px;
+        text-align: center;
+    }
+
+    th {
+        border-bottom: 1px solid white;
+        /* border-top: 1px; */
+        padding: 20px;
+    }
+
+    td {
+        border-right: 1px solid white;
+        font-size: 27px;
+
+    }
+
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 719px) {
+    .main {
+        background-color: black;
+        /* margin: 20px; */
+        color: white;
+        margin: 0px;
+        width: 100%;
+    
+    }
+.main h1{
+    font-size: 30px;
+}
+    .body {
+        background-color: black;
+        color: white;
+        font-family: 'Inter', sans-serif;
+        border: 1px solid white;
+        border-radius: 5px;
+        margin: 10px;
+    }
+
+    .links {
+        border: 1px solid white;
+        border-radius: 5px;
+        margin: 10px;
+        width: 85%;
+        padding: 20px;
+        
+    }
+    .links span {
+        position: absolute;
+        /* top: a; */
+        margin-top: 10px;
+        margin-left: 23px;
+    }
+
+    .links img {
+        padding: 5px;
+    }
+
+    .details {
+        border: 1px solid white;
+        border-radius: 5px;
+        margin: 10px;
+        width: 90%;
+        padding: 20px;
+        text-align: start;
+        padding-left: 0px;
+        line-height: 25px;
+    }
+
+    .profile img {
+        width: 200px;
+        height: 200px;
+        border-radius: 20px;
+
+
+
+    }
+
+    .profile {
+        border: 1px solid white;
+        border-radius: 5px;
+        margin: 10px;
+        text-align: center;
+       
+        padding: 20px;
+    }
+
+    .table {
+
+        
+        
+       
+        padding: 30px;
+       
+        width: auto;
+        background: #000;
+        
+    }
+    .table h1{
+        font-size: 30px;
+    }
+    .data {
+        color: white;
+        border: 1px solid white;
+        border-radius: 10px;
+        padding: 0px 0px 0px 0px;
+        margin: 4px;
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        font-size: 10px;
+    }
+    
+    th {
+        border-bottom: 1px solid white;
+        /* border-top: 1px; */
+        padding: 2px;
+        font-size: 1rem;
+    
+    }
+    
+    td {
+        border-right: 1px solid white;
+        font-size: 1rem;
+        padding: 13px;
+    
+    }
+    
+    
+    .flex {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
