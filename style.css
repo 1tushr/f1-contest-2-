@@ -29,6 +29,12 @@
         padding: 20px;
 
     }
+    .links span {
+        position: absolute;
+        /* top: a; */
+        margin-top: 10px;
+        margin-left: 23px;
+    }
 
     .details {
         border: 5px solid white;
